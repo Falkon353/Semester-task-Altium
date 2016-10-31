@@ -1,1 +1,7 @@
-Record=TopLevelDocument|FileName=Sheet1.SchDoc
+Record=TopLevelDocument|FileName=MCU&VoltageRegulator.SchDoc
+Record=SheetSymbol|SourceDocument=MCU&VoltageRegulator.SchDoc|Designator=U_ADC|SchDesignator=U_ADC|FileName=ADC.SchDoc|SymbolType=Normal|RawFileName=ADC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MCU&VoltageRegulator.SchDoc|Designator=U_CAN|SchDesignator=U_CAN|FileName=CAN.SchDoc|SymbolType=Normal|RawFileName=CAN.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MCU&VoltageRegulator.SchDoc|Designator=U_GAL|SchDesignator=U_GAL|FileName=GAL.SchDoc|SymbolType=Normal|RawFileName=GAL.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MCU&VoltageRegulator.SchDoc|Designator=U_OLED|SchDesignator=U_OLED|FileName=OLED.SchDoc|SymbolType=Normal|RawFileName=OLED.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MCU&VoltageRegulator.SchDoc|Designator=U_SRAM|SchDesignator=U_SRAM|FileName=SRAM.SchDoc|SymbolType=Normal|RawFileName=SRAM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MCU&VoltageRegulator.SchDoc|Designator=U_USART|SchDesignator=U_USART|FileName=USART.SchDoc|SymbolType=Normal|RawFileName=USART.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
