@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [IIDK.PrjPcb]
+   Generated File[Node1_PolygonPourGND.GTL]
+   Generated File[Node1_PolygonPourGND.GBL]
+   Generated File[Node1_PolygonPourGND.GPB]
+   Generated File[Node1_PolygonPourGND.GPT]
+   Generated File[Node1_PolygonPourGND.GTO]
+   Generated File[Node1_PolygonPourGND.GTP]
+   Generated File[Node1_PolygonPourGND.GTS]
+   Generated File[Node1_PolygonPourGND.GBS]
+   Generated File[Node1_PolygonPourGND.GBP]
+   Generated File[Node1_PolygonPourGND.GBO]
+   Generated File[Node1_PolygonPourGND.GKO]
+   Generated File[Node1_PolygonPourGND.GM1]
+   Generated File[Node1_PolygonPourGND.GM13]
+   Generated File[Node1_PolygonPourGND.GM15]
+   Generated File[Node1_PolygonPourGND.RUL]
+   Generated File[Node1_PolygonPourGND.EXTREP]
+   Generated File[Node1_PolygonPourGND.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 14:28:54 On 21.11.2016
